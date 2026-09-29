@@ -1,7 +1,7 @@
+.env
 .venv/
 .venv-1/
 __pycache__/
 .pytest_cache/
-.env
 .streamlit/
 *.pyc
